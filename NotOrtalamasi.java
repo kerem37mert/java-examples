@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class NotOrtalamasi {
     public static void main(String[] args) {
+        
         Scanner sc = new Scanner(System.in);
 
         float matematik, fizik, kimya, turkce, tarih, muzik;
