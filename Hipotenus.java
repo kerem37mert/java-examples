@@ -16,5 +16,8 @@ public class Hipotenus {
         c = Math.sqrt((a*a) + (b*b));
 
         System.out.println("Hipotenus: " + c);
+
+        int[] scores = new int[10];
+
     }
 }
